@@ -1,0 +1,70 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 10;
+}
+.header{
+	background-color: #0000FF;
+	padding: 5px;
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 50px;
+	font-family: Spade;
+	height: 100px;
+}
+.slogan{
+	background-color: #3399FF;
+	padding: 5px;
+	color: black;
+	font-size:24px;
+	font-family: times new roman;
+	text-align: center;
+	height: 50px;
+}
+.menu{
+	background-color: #3399FF;
+	padding: 5px;
+	color: black;
+	font-size: 18px;
+	font-family: times new roman;
+	text-align: center;
+	font-weight: bold;
+	height: 50px;
+}
+.menu :hover{
+	background-color: white;
+	color: #87CEFA;
+
+}
+.active{
+	background-color: white;
+	color: #87CEFA;
+
+}
+.populer{
+	font-family: times new roman;
+	height:100px;
+	background-color: #87CEFA;
+}
+.populer2{
+	font-family: times new roman;
+	font-size: 20px;
+	background-color: #87CEFA;
+	text-align: justify;
+	padding: 20px;
+}
+.footer{
+	background-color: #0000FF;
+	padding: 10px;
+	text-align: center;
+	font-family: technical;
+}
+.footer :hover{
+	background-color: black;
+	color: white;
+
+}
